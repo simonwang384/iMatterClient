@@ -1,0 +1,6 @@
+Pizza
+1
+Pasta
+0
+Rice
+0
